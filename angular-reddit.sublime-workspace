@@ -1,0 +1,1316 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"margin",
+				"margin-bottom"
+			],
+			[
+				"font-",
+				"font-size"
+			],
+			[
+				"search",
+				"searchParams	URLUtils"
+			],
+			[
+				"forEach",
+				"angular.forEach"
+			],
+			[
+				"forEa",
+				"forEach(${0:callback})	Array"
+			],
+			[
+				"$route",
+				"$routeParams	AngularJS"
+			],
+			[
+				"tex",
+				"text-decoration"
+			],
+			[
+				"text-",
+				"text-align"
+			],
+			[
+				"mar",
+				"margin-bottom"
+			],
+			[
+				"border",
+				"border-radius"
+			],
+			[
+				"for",
+				"forin	for in own properties"
+			],
+			[
+				"permission",
+				"permissionChecker"
+			],
+			[
+				"marign",
+				"margin-top"
+			],
+			[
+				"scroll",
+				"scrollTop	.scrollTop()"
+			],
+			[
+				"bac",
+				"background"
+			],
+			[
+				"background",
+				"background"
+			],
+			[
+				"declineI",
+				"declineInventoryChargeoffModal"
+			],
+			[
+				"font",
+				"font-size"
+			],
+			[
+				"backgroun",
+				"background"
+			],
+			[
+				"pddi",
+				"padding-left"
+			],
+			[
+				"bord",
+				"border-box"
+			],
+			[
+				"margi",
+				"margin-bottom"
+			],
+			[
+				"padi",
+				"padding-top"
+			],
+			[
+				"charge",
+				"chargeBackDate"
+			],
+			[
+				"ready",
+				"ready	jQuery(document).ready"
+			],
+			[
+				"navbar",
+				"navbar-inner"
+			],
+			[
+				"payment",
+				"paymentStatus"
+			],
+			[
+				"val",
+				"value	Angular.js"
+			],
+			[
+				"get",
+				"get	$.get()"
+			],
+			[
+				"read",
+				"ready	$(document).ready"
+			],
+			[
+				"table",
+				"table"
+			],
+			[
+				"check",
+				"checkNumber"
+			],
+			[
+				"back",
+				"background"
+			],
+			[
+				"custome",
+				"customerInfo"
+			],
+			[
+				"tex-",
+				"text-align"
+			],
+			[
+				"padd",
+				"padding"
+			],
+			[
+				"location",
+				"angular: $location"
+			],
+			[
+				"ba",
+				"background"
+			],
+			[
+				"modal",
+				"modalContent"
+			],
+			[
+				"hs",
+				"hasClass	.hasClass()"
+			],
+			[
+				"has",
+				"hasClass	.hasClass()"
+			],
+			[
+				"backg",
+				"background"
+			],
+			[
+				"marg",
+				"margin-left"
+			],
+			[
+				"billing",
+				"billing"
+			],
+			[
+				"accountT",
+				"accountType"
+			],
+			[
+				"pos",
+				"position"
+			],
+			[
+				"text",
+				"text-align"
+			],
+			[
+				"vis",
+				"visible-desktop"
+			],
+			[
+				"hidden",
+				"hidden-phone"
+			],
+			[
+				"hidden-",
+				"hidden-tablet"
+			],
+			[
+				"cur",
+				"cursor"
+			],
+			[
+				"compar",
+				"comparisonModel"
+			],
+			[
+				"siblin",
+				"siblingValue"
+			],
+			[
+				"sib",
+				"siblingValue"
+			],
+			[
+				"cra",
+				"created"
+			],
+			[
+				"policy",
+				"policyNumber"
+			],
+			[
+				"poli",
+				"policyNumber"
+			],
+			[
+				"status",
+				"statusLabel"
+			],
+			[
+				"MY",
+				"myAccountData"
+			],
+			[
+				"log",
+				"logIt"
+			],
+			[
+				"data",
+				"dataBus"
+			],
+			[
+				"reporting",
+				"reportingPeriod"
+			],
+			[
+				"reportPri",
+				"reportPeriodDueDate"
+			],
+			[
+				"paym",
+				"paymentdue"
+			],
+			[
+				"Organi",
+				"Organizations"
+			],
+			[
+				"descri",
+				"description"
+			],
+			[
+				"div",
+				"divider"
+			],
+			[
+				"append",
+				"appendTo	.appendTo()"
+			],
+			[
+				"$scope",
+				"$rootScopeProvider	AngularJS"
+			],
+			[
+				"$",
+				"$http	AngularJS"
+			],
+			[
+				"certifica",
+				"certificate"
+			],
+			[
+				"certs",
+				"certsGlobal"
+			],
+			[
+				"reportPrio",
+				"reportPeriodStartDate"
+			],
+			[
+				"reportPeri",
+				"reportPeriodStartDate"
+			],
+			[
+				"certificate",
+				"certificates"
+			],
+			[
+				"selectedP",
+				"selectedPolicy"
+			],
+			[
+				"prem",
+				"premiumreports"
+			],
+			[
+				"span",
+				"span6"
+			],
+			[
+				"premium",
+				"premium-reporting"
+			],
+			[
+				"san",
+				"span12"
+			],
+			[
+				"cert",
+				"certificates"
+			],
+			[
+				"loca",
+				"$location	AngularJS"
+			],
+			[
+				"window",
+				"$window	AngularJS"
+			],
+			[
+				"windo",
+				"angular: $window"
+			],
+			[
+				"selected",
+				"selectedCerts"
+			],
+			[
+				"policyPeri",
+				"policyPeriod"
+			],
+			[
+				"myAccount",
+				"myAccountData"
+			],
+			[
+				"success",
+				"successfully"
+			],
+			[
+				"policyPeriod",
+				"policyPeriods"
+			],
+			[
+				"certific",
+				"certificates"
+			],
+			[
+				"policyPerio",
+				"policyPeriodId"
+			],
+			[
+				"selectedPolicy",
+				"selectedPolicyPeriod"
+			],
+			[
+				"certificateid",
+				"certificateIds"
+			],
+			[
+				"certii",
+				"certificates"
+			],
+			[
+				"certifi",
+				"certificates"
+			],
+			[
+				"addressL",
+				"addressLine1"
+			],
+			[
+				"forE",
+				"forEach	Meteor: cursor.forEach(callback)"
+			],
+			[
+				"certi",
+				"certificate"
+			],
+			[
+				"certificat",
+				"certificateId"
+			],
+			[
+				"policyPer",
+				"policyPeriodId"
+			],
+			[
+				"$sc",
+				"$scope	AngularJS"
+			],
+			[
+				"color",
+				"color-fade"
+			],
+			[
+				"list-",
+				"list-style-type"
+			],
+			[
+				"colo",
+				"color-fade"
+			],
+			[
+				"backgrou",
+				"background-image"
+			],
+			[
+				"backgr",
+				"background"
+			],
+			[
+				"frutig",
+				"frutigerRoman"
+			],
+			[
+				"break",
+				"break-word"
+			],
+			[
+				"replace",
+				"replaceWith	replaceWith"
+			],
+			[
+				"clear",
+				"clearfix"
+			],
+			[
+				"list",
+				"list-style-type"
+			],
+			[
+				"bacgroun",
+				"background-color"
+			],
+			[
+				"fo",
+				"font"
+			],
+			[
+				"border-",
+				"border-right"
+			],
+			[
+				"in",
+				"include"
+			],
+			[
+				"clea",
+				"clearfix"
+			],
+			[
+				"list-s",
+				"list-style-type"
+			],
+			[
+				"long",
+				"longitude"
+			],
+			[
+				"password",
+				"password_confirmation"
+			],
+			[
+				"domino",
+				"dominosBlue"
+			],
+			[
+				"inline",
+				"inline-block"
+			],
+			[
+				"padding",
+				"padding-left"
+			],
+			[
+				"dropdow",
+				"dropdown-toggle"
+			],
+			[
+				"drop",
+				"dropdown"
+			],
+			[
+				"datat",
+				"datatables"
+			],
+			[
+				"query",
+				"queryInput"
+			],
+			[
+				"date",
+				"date"
+			],
+			[
+				"time",
+				"timestamp"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "index.html",
+			"settings":
+			{
+				"buffer_size": 412,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "app.ts",
+			"settings":
+			{
+				"buffer_size": 2124,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "app.js",
+			"settings":
+			{
+				"buffer_size": 3593,
+				"line_ending": "Windows"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 129.0,
+		"last_filter": "update",
+		"selected_items":
+		[
+			[
+				"update",
+				"Package Control: Upgrade/Overwrite All Packages"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: install",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: inst",
+				"Package Control: Install Package"
+			],
+			[
+				"list",
+				"Package Control: List Packages"
+			],
+			[
+				"lis",
+				"Package Control: List Packages"
+			],
+			[
+				"intall",
+				"Package Control: Install Package"
+			],
+			[
+				"inst",
+				"Package Control: Install Package"
+			],
+			[
+				"packages",
+				"Package Control: List Packages"
+			],
+			[
+				"packg",
+				"Package Control: List Packages"
+			],
+			[
+				"FileSyn",
+				"FileSync: Enable/Disable"
+			],
+			[
+				"instal",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: ",
+				"Package Control: List Packages"
+			],
+			[
+				"Package Control: update",
+				"Package Control: Upgrade/Overwrite All Packages"
+			],
+			[
+				"css",
+				"Run CSScomb"
+			],
+			[
+				"brow",
+				"Preferences: Browse Packages"
+			],
+			[
+				"Package Control: ins",
+				"Package Control: Install Package"
+			],
+			[
+				"svn",
+				"SVN: Checkout…"
+			],
+			[
+				"diff",
+				"FileDiffs: Menu"
+			],
+			[
+				"Snippet: docre",
+				"Snippet: $(document).ready"
+			],
+			[
+				"ins",
+				"Package Control: Install Package"
+			],
+			[
+				"Snippet: docready",
+				"Snippet: $(document).ready"
+			],
+			[
+				"Package Control: remov",
+				"Package Control: Remove Package"
+			],
+			[
+				"bea",
+				"SassBeautify"
+			]
+		],
+		"width": 703.0
+	},
+	"console":
+	{
+		"height": 451.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = 'eb2297e1a458f27d836c04bb0cbaf282' + 'd0e7a3098092775ccb37ca9d6b2e4b7d'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)",
+			"import urllib.request,os; pr='Preferences.sublime-settings'; ip='ignored_packages'; n='Package Control'; s=sublime.load_settings(pr); ig=s.get(ip); ig.append(n); s.set(ip,ig); sublime.save_settings('Preferences.sublime-settings'); pf=n+'.sublime-package'; urllib.request.install_opener(urllib.request.build_opener(urllib.request.ProxyHandler())); by=urllib.request.urlopen('https://packagecontrol.io/'+pf.replace(' ','%20')).read(); open(os.path.join(sublime.installed_packages_path(),pf),'wb').write(by); ig.remove(n); s.set(ip,ig); sublime.save_settings(pr); print('Package Control: 3.0.0 upgrade successful!')",
+			"  import urllib.request,os; pr='Preferences.sublime-settings'; ip='ignored_packages'; n='Package Control'; s=sublime.load_settings(pr); ig=s.get(ip); ig.append(n); s.set(ip,ig); sublime.save_settings('Preferences.sublime-settings'); pf=n+'.sublime-package'; urllib.request.install_opener(urllib.request.build_opener(urllib.request.ProxyHandler())); by=urllib.request.urlopen('https://packagecontrol.io/'+pf.replace(' ','%20')).read(); open(os.path.join(sublime.installed_packages_path(),pf),'wb').write(by); ig.remove(n); s.set(ip,ig); sublime.save_settings(pr); print('Package Control: 3.0.0 upgrade successful!')",
+			"import urllib.request,os,hashlib; h = '7183a2d3e96f11eeadd761d777e62404' + 'e330c659d4bb41d3bdf022e94cab3cd0'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://sublime.wbond.net/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/C/angular-projects/angular2/angular2-reddit-base"
+	],
+	"file_history":
+	[
+		"/C/angular-projects/angular2/angular2-reddit-base/index.html",
+		"/C/angular-projects/angular2/angular2-reddit-base/app.ts",
+		"/C/angular-projects/angular2/angular2-reddit-base/angular-reddit.sublime-project",
+		"/C/liferayHome/liferay-portal-6.2-ee-sp9/tomcat-7.0.42/webapps/customer-research-portlet/META-INF/context.xml",
+		"/C/liferayHome/liferay-portal-6.2-ee-sp9/tomcat-7.0.42/webapps/customer-search-portlet/META-INF/context.xml",
+		"/C/liferayHome/rent-a-center-theme/src/main/webapp/templates/portal_normal.vm",
+		"/C/liferayHome/liferay-portal-6.2-ee-sp9/tomcat-7.0.42/webapps/customer-research-portlet/app/agreement-details/agreement-details.controller.js",
+		"/C/liferayHome/liferay-portal-6.2-ee-sp9/tomcat-7.0.42/webapps/customer-research-portlet/view.jsp",
+		"/C/nodeProjects/foundation-6/js/foundation.js",
+		"/C/nodeProjects/foundation-6/css/foundation.css",
+		"/C/nodeProjects/foundation-6/css/app.css",
+		"/C/Users/tburkholder.XTIVIA-AUS/Desktop/foundation-6/index.html",
+		"/C/Users/tburkholder.XTIVIA-AUS/Desktop/in.json",
+		"/C/liferayHome/liferay-portal-6.2-ee-sp9/tomcat-7.0.42/webapps/customer-research-portlet/app/club-details/partials/activity-tab.partial.html",
+		"/C/liferayHome/liferay-portal-6.2-ee-sp9/tomcat-7.0.42/webapps/rent-a-center-theme/css/custom/apps.css",
+		"/C/liferayHome/liferay-portal-6.2-ee-sp9/tomcat-7.0.42/webapps/customer-research-portlet/app/customer-information/partials/work-history-tab.partial.html",
+		"/C/liferayHome/liferay-portal-6.2-ee-sp9/tomcat-7.0.42/webapps/customer-research-portlet/app/customer-information/customer-information.controller.js",
+		"/C/liferayHome/liferay-portal-6.2-ee-sp9/tomcat-7.0.42/webapps/customer-research-portlet/app/customer-information/partials/modals/residence-details.modal.template.html",
+		"/C/liferayHome/liferay-portal-6.2-ee-sp9/tomcat-7.0.42/webapps/customer-research-portlet/app/agreement-details/partials/inventory-tab.partial.html",
+		"/C/Users/tburkholder.XTIVIA-AUS/Desktop/interviewtest/app/css/style.css",
+		"/C/Users/tburkholder.XTIVIA-AUS/Desktop/interviewtest/app/js/main.js",
+		"/C/Users/tburkholder.XTIVIA-AUS/AppData/Local/Temp/Temp1_interviewtest.zip/interviewtest/app/index.html",
+		"/C/liferayHome/liferay-portal-6.2-ee-sp9/tomcat-7.0.42/webapps/em-angular-core/core/directives/datepickerPattern.directive.js",
+		"/C/liferayHome/liferay-portal-6.2.10.1-ee-ga1/tomcat-7.0.42/webapps/billing-payments-portlet/js/directives.js",
+		"/C/liferayHome/liferay-portal-6.2-ee-sp9/tomcat-7.0.42/webapps/chargeoff-portlet/app/agreement-list/agreement-list.html",
+		"/C/liferayHome/liferay-portal-6.2-ee-sp9/tomcat-7.0.42/webapps/em-angular-core/core/directives/table/table.template.html",
+		"/C/liferayHome/liferay-portal-6.2-ee-sp9/tomcat-7.0.42/webapps/em-angular-core/core/directives/table/table.directive.js",
+		"/C/liferayHome/liferay-portal-6.2-ee-sp9/tomcat-7.0.42/webapps/chargeoff-portlet/app/agreement-details/agreement-details.html",
+		"/C/liferayHome/liferay-portal-6.2-ee-sp9/tomcat-7.0.42/webapps/customer-research-portlet/app/customer-information/partials/modals/reference-details.modal.template.html",
+		"/C/liferayHome/liferay-portal-6.2-ee-sp9/tomcat-7.0.42/webapps/customer-research-portlet/app/customer-information/partials/more-info-tab.partial.html",
+		"/C/liferayHome/liferay-portal-6.2-ee-sp9/tomcat-7.0.42/webapps/customer-search-portlet/app/search-customers/search-customers.controller.js",
+		"/C/liferayHome/liferay-portal-6.2-ee-sp9/tomcat-7.0.42/webapps/customer-search-portlet/app/search-customers/search-customers.html",
+		"/C/liferayHome/liferay-portal-6.2-ee-sp9/tomcat-7.0.42/webapps/em-angular-core/core/directives/focus.directive.js",
+		"/C/liferayHome/liferay-portal-6.2-ee-sp9/tomcat-7.0.42/webapps/customer-research-portlet/app/agreement-details/partials/modals/payment-details.modal.template.html",
+		"/C/liferayHome/liferay-portal-6.2-ee-sp9/tomcat-7.0.42/webapps/em-angular-core/core/services/util.service.js",
+		"/C/liferayHome/liferay-portal-6.2-ee-sp9/tomcat-7.0.42/webapps/customer-research-portlet/app/customer-information/partials/modals/cancel-legal-hold.modal.template.html",
+		"/C/liferayHome/liferay-portal-6.2-ee-sp9/tomcat-7.0.42/webapps/customer-research-portlet/app/customer-information/partials/modals/additional-details.modal.template.html",
+		"/C/liferayHome/liferay-portal-6.2-ee-sp9/tomcat-7.0.42/webapps/em-angular-core/META-INF/context.xml",
+		"/C/liferayHome/liferay-portal-6.2-ee-sp9/tomcat-7.0.42/webapps/em-angular-core/core/directives/tooltip.directive.js",
+		"/C/liferayHome/RAC/customer-search/src/main/webapp/app/search-customers/search-customers.html",
+		"/C/liferayHome/liferay-portal-6.2-ee-sp9/tomcat-7.0.42/webapps/agreement-search-portlet/app/search-agreements/search-agreements.html",
+		"/C/liferayHome/RAC/agreement-search/src/main/webapp/app/search-agreements/search-agreements.html",
+		"/C/liferayHome/credit-card-chargeback/src/main/webapp/app/search-payments/search-payments.html",
+		"/C/liferayHome/returned-check/src/main/webapp/app/search-checks/search-checks.html",
+		"/C/liferayHome/liferay-portal-6.2-ee-sp9/tomcat-7.0.42/webapps/agreement-search-portlet/META-INF/context.xml",
+		"/C/Users/tburkholder.XTIVIA-AUS/Desktop/defects - thurs",
+		"/C/liferayHome/liferay-portal-6.2-ee-sp9/tomcat-7.0.42/webapps/rent-a-center-theme/css/custom/fonts/rac-icons.css",
+		"/C/liferayHome/liferay-portal-6.2-ee-sp9/tomcat-7.0.42/webapps/customer-research-portlet/app/customer-information/customer-information.template.html",
+		"/C/liferayHome/liferay-portal-6.2-ee-sp9/tomcat-7.0.42/webapps/customer-research-portlet/app/customer-information/partials/references-tab.partial.html",
+		"/C/liferayHome/liferay-portal-6.2-ee-sp9/tomcat-7.0.42/webapps/customer-research-portlet/app/customer-information/partials/employer-prop-tab.partial.html",
+		"/C/liferayHome/liferay-portal-6.2-ee-sp9/tomcat-7.0.42/webapps/customer-research-portlet/app/agreement-details/partials/payment-history-tab.partial.html",
+		"/C/liferayHome/liferay-portal-6.2-ee-sp9/tomcat-7.0.42/webapps/customer-research-portlet/app/customer-information/partials/employment.partial.html",
+		"/C/liferayHome/liferay-portal-6.2-ee-sp9/tomcat-7.0.42/webapps/customer-research-portlet/app/customer-information/partials/active-agreements.partial.html",
+		"/C/liferayHome/rent-a-center-theme/src/main/webapp/css/custom/apps.css",
+		"/C/liferayHome/RAC/customer-research/src/main/webapp/app/customer-information/customer-information.template.html",
+		"/C/Users/tburkholder.XTIVIA-AUS/Desktop/customer.json",
+		"/C/liferayHome/RAC/customer-research/src/main/webapp/app/club-details/club-details.template.html",
+		"/C/liferayHome/RAC/customer-research/src/main/webapp/app/customer-information/partials/employer-prop-tab.partial.html",
+		"/C/liferayHome/RAC/customer-research/src/main/webapp/app/customer-information/partials/employment.partial.html",
+		"/C/liferayHome/RAC/customer-research/src/main/webapp/app/customer-information/partials/agreements-tab.partial.html",
+		"/C/liferayHome/RAC/customer-research/src/main/webapp/app/customer-information/partials/active-agreements.partial.html",
+		"/C/liferayHome/RAC/customer-research/src/main/webapp/app/agreement-details/agreement-details.template.html",
+		"/C/liferayHome/RAC/customer-research/src/main/webapp/app/agreement-details/partials/inventory-tab.partial.html",
+		"/C/liferayHome/RAC/customer-research/src/main/webapp/app/agreement-details/partials/modals/payment-details.modal.template.html",
+		"/C/liferayHome/RAC/customer-research/src/main/webapp/app/club-details/partials/modals/payment-details.modal.template.html",
+		"/C/liferayHome/RAC/customer-research/src/main/webapp/app/customer-information/partials/modals/cancel-legal-hold.modal.template.html",
+		"/C/liferayHome/RAC/customer-research/src/main/webapp/app/customer-information/partials/modals/employment-details.modal.template.html",
+		"/C/liferayHome/RAC/customer-research/src/main/webapp/app/customer-information/partials/modals/reference-details.modal.template.html",
+		"/C/liferayHome/RAC/customer-research/src/main/webapp/app/customer-information/partials/modals/residence-details.modal.template.html",
+		"/C/liferayHome/RAC/customer-research/src/main/webapp/app/customer-information/partials/modals/work-history-details.modal.template.html",
+		"/C/liferayHome/RAC/customer-research/src/main/webapp/app/customer-information/partials/modals/add-legal-hold.modal.template.html",
+		"/C/liferayHome/RAC/customer-research/src/main/webapp/app/customer-information/partials/modals/additional-details.modal.template.html",
+		"/C/liferayHome/RAC/customer-research/src/main/webapp/app/customer-information/partials/work-history-tab.partial.html",
+		"/C/liferayHome/RAC/customer-research/src/main/webapp/app/agreement-details/partials/payment-history-tab.partial.html",
+		"/C/liferayHome/liferay-portal-6.2-ee-sp9/tomcat-7.0.42/webapps/agreement-search-portlet/app/search-agreements/search-agreements.controller.js",
+		"/C/liferayHome/liferay-portal-6.2-ee-sp9/tomcat-7.0.42/webapps/customer-research-portlet/app/customer-information/partials/legal-tab.partial.html",
+		"/C/liferayHome/liferay-portal-6.2-ee-sp9/tomcat-7.0.42/webapps/customer-research-portlet/app/customer-information/customer-information.controller.js.orig",
+		"/C/liferayHome/RAC/customer-research/src/main/webapp/app/customer-information/partials/legal-tab.partial.html",
+		"/C/liferayHome/liferay-portal-6.2-ee-sp9/tomcat-7.0.42/webapps/customer-research-portlet/app/customer-information/partials/tax-exempt-tab.partial.html",
+		"/C/liferayHome/liferay-portal-6.2-ee-sp9/tomcat-7.0.42/webapps/customer-research-portlet/app/customer-information/partials/agreements-tab.partial.html",
+		"/C/liferayHome/liferay-portal-6.2-ee-sp9/tomcat-7.0.42/webapps/rent-a-center-theme/css/custom/rac.css",
+		"/C/liferayHome/liferay-portal-6.2-ee-sp9/tomcat-7.0.42/webapps/rent-a-center-theme/css/custom/rac-responsive.css",
+		"/C/liferayHome/RAC/em-angular-core/src/main/webapp/core/services/util.service.js",
+		"/C/liferayHome/RAC/customer-research/src/main/webapp/app/customer-information/partials/inactive-agreements.partial.html",
+		"/C/liferayHome/returned-check/src/main/webapp/view.jsp",
+		"/C/liferayHome/exceptions-portlet/src/main/webapp/view.jsp",
+		"/C/liferayHome/credit-card-chargeback/src/main/webapp/view.jsp",
+		"/C/liferayHome/update-serial-number/src/main/webapp/view.jsp",
+		"/C/liferayHome/liferay-portal-6.2-ee-sp9/tomcat-7.0.42/webapps/rent-a-center-theme/templates/portal_normal.vm",
+		"/C/liferayHome/liferay-portal-6.2-ee-sp9/tomcat-7.0.42/webapps/returned-checks-portlet/view.jsp",
+		"/C/liferayHome/liferay-portal-6.2-ee-sp9/tomcat-7.0.42/webapps/customer-research-portlet/app/customer-information/partials/inactive-agreements.partial.html",
+		"/C/liferayHome/liferay-portal-6.2-ee-sp9/tomcat-7.0.42/webapps/rent-a-center-theme/js/custom.js",
+		"/C/liferayHome/RAC/customer-research/src/main/webapp/app/customer-information/customer-information.controller.js",
+		"/C/Users/tburkholder.XTIVIA-AUS/AppData/Local/Temp/tmp8FC9.tmp.js",
+		"/C/Users/tburkholder.XTIVIA-AUS/AppData/Local/Temp/7zOAD17.tmp/util.service.js",
+		"/C/Users/tburkholder.XTIVIA-AUS/AppData/Local/Temp/tmpF869.tmp.js",
+		"/C/liferayHome/liferay-portal-6.2-ee-sp9/tomcat-7.0.42/webapps/agreement-search-portlet/view.jsp",
+		"/C/liferayHome/metrics/src/main/webapp/app/app.js",
+		"/C/liferayHome/metrics/src/main/webapp/app/district/district.controller.js",
+		"/C/liferayHome/metrics/src/main/webapp/app/district/district.html",
+		"/C/liferayHome/chargeoff/src/main/webapp/app/inventory-list/inventory-list.controller.js",
+		"/C/liferayHome/chargeoff/src/main/webapp/app/inventory-list/inventory-list.html",
+		"/C/liferayHome/RAC/em-angular-core/src/main/webapp/core/services/permissionChecker.service.js",
+		"/C/liferayHome/liferay-portal-6.2-ee-sp9/tomcat-7.0.42/webapps/em-angular-core/core/services/localStorage.service.js",
+		"/C/liferayHome/RAC/agreement-search/pom.xml",
+		"/C/liferayHome/liferay-portal-6.2-ee-sp9/tomcat-7.0.42/bin/setenv.bat",
+		"/C/liferayHome/liferay-portal-6.2-ee-sp9/tomcat-7.0.42/webapps/customer-search-portlet/app/app.js",
+		"/C/liferayHome/liferay-portal-6.2-ee-sp9/tomcat-7.0.42/webapps/returned-checks-portlet/app/search-checks/search-checks.controller.js",
+		"/C/liferayHome/liferay-portal-6.2-ee-sp9/tomcat-7.0.42/webapps/customer-research-portlet/app/app.js",
+		"/C/liferayHome/liferay-portal-6.2-ee-sp9/tomcat-7.0.42/webapps/customer-research-portlet/app/inventory-details/inventory-details.template.html",
+		"/C/liferayHome/liferay-portal-6.2-ee-sp9/tomcat-7.0.42/webapps/customer-research-portlet/app/agreement-details/agreement-details.template.html",
+		"/C/liferayHome/liferay-portal-6.2-ee-sp9/tomcat-7.0.42/webapps/customer-research-portlet/app/club-details/club-details.template.html",
+		"/C/liferayHome/liferay-portal-6.2-ee-sp9/tomcat-7.0.42/webapps/em-angular-core/core/services/permissionChecker.service.js",
+		"/C/liferayHome/liferay-portal-6.2-ee-sp9/tomcat-7.0.42/webapps/em-angular-core/view.jsp",
+		"/C/liferayHome/liferay-portal-6.2-ee-sp9/tomcat-7.0.42/webapps/customer-research-portlet/app/customer-information/partials/additionalInfo.partial.html",
+		"/C/liferayHome/liferay-portal-6.2-ee-sp9/tomcat-7.0.42/webapps/em-angular-core/core/services/web-services/customer.service.js",
+		"/C/liferayHome/liferay-portal-6.2-ee-sp9/tomcat-7.0.42/webapps/customer-research-portlet/app/customer-information/partials/modals/employment-details.modal.template.html",
+		"/C/liferayHome/liferay-portal-6.2-ee-sp9/tomcat-7.0.42/webapps/customer-research-portlet/app/customer-information/partials/residences.partial.html",
+		"/C/liferayHome/liferay-portal-6.2-ee-sp9/tomcat-7.0.42/webapps/customer-research-portlet/app/inventory-details/inventory-details.controller.js",
+		"/C/liferayHome/liferay-portal-6.2-ee-sp9/tomcat-7.0.42/webapps/customer-research-portlet/app/club-details/partials/payment-history-tab.partial.html",
+		"/C/liferayHome/RAC/customer-research/src/main/webapp/view.jsp",
+		"/C/liferayHome/RAC/app-config/intg-xtivia/liferay-01/tomcat-home/webapps/ROOT/WEB-INF/classes/resource-actions/customer-research.xml",
+		"/C/liferayHome/liferay-portal-6.2-ee-sp9/tomcat-7.0.42/webapps/ROOT/WEB-INF/classes/resource-actions/customer-research.xml",
+		"/C/liferayHome/RAC/app-config/l2-qa/liferay-01/tomcat-home/webapps/ROOT/WEB-INF/classes/resource-actions/customer-research.xml",
+		"/C/liferayHome/RAC/app-config/l1-intg/liferay-01/tomcat-home/webapps/ROOT/WEB-INF/classes/resource-actions/customer-research.xml",
+		"/C/liferayHome/liferay-portal-6.2-ee-sp9/portal-ext.properties",
+		"/C/Users/tburkholder.XTIVIA-AUS/Downloads/styles.css",
+		"/C/liferayHome/liferay-portal-6.2-ee-sp9/tomcat-7.0.42/webapps/rent-a-center-theme/css/custom/fonts/open-sans.css"
+	],
+	"find":
+	{
+		"height": 43.0
+	},
+	"find_in_files":
+	{
+		"height": 117.0,
+		"where_history":
+		[
+			"C:\\liferayHome",
+			"C:\\liferayHome\\*",
+			"C:\\liferayHome",
+			"C:\\liferayHome\\metrics,C:\\liferayHome\\chargeoff,C:\\liferayHome\\returned-check,C:\\liferayHome\\update-serial-number,C:\\liferayHome\\exceptions-portlet,C:\\liferayHome\\credit-card-chargeback",
+			"C:\\liferayHome\\liferay-portal-6.2-ee-sp9\\tomcat-7.0.42\\webapps\\rent-a-center-theme",
+			"C:\\liferayHome\\agent-portlet",
+			"C:\\liferayHome\\liferay-portal-6.2-ee-sp8\\tomcat-7.0.42\\webapps\\huhtamaki-layouttpl",
+			"C:\\jboss\\liferay-portal\\jboss-7.1.1\\standalone\\deployments",
+			"C:\\jboss\\liferay-portal\\jboss-7.1.1\\standalone\\deployments\\dss-portlet.warmap",
+			"C:\\liferayHome\\choice-edp\\trunk\\liferay-plugins",
+			"C:\\liferayHome\\CPM-sdk-6.2.10.1\\portlets\\my-account-portlet\\docroot",
+			"C:\\liferayHome\\liferay-portal-6.2.10.1-ee-ga1\\tomcat-7.0.42\\webapps\\copperpoint-theme\\css",
+			"C:\\liferayHome\\liferay-portal-6.2.10.1-ee-ga1\\tomcat-7.0.42\\webapps\\trevor-theme\\WEB-INF",
+			"C:\\liferayHome\\liferay-plugins-sdk-6.1.20\\themes\\dominos-live-theme,C:\\liferayHome\\liferay-portal-6.2.10.1-ee-ga1\\tomcat-7.0.42\\webapps\\trevor-theme\\WEB-INF",
+			"C:\\liferayHome\\liferay-plugins-sdk-6.1.20\\themes\\dominos-live-theme,C:\\liferayHome\\liferay-portal-6.2.10.1-ee-ga1\\tomcat-7.0.42\\webapps\\trevor-theme\\WEB-INF<",
+			"C:\\liferayHome\\liferay-plugins-sdk-6.1.20\\themes\\dominos-live-theme"
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"ft-flu",
+			"count",
+			"total",
+			"pageRange",
+			"timeout",
+			"focusValue",
+			"additionalDetails",
+			"focus",
+			"down",
+			"modal",
+			"&times;",
+			"close",
+			"<i",
+			"photo",
+			"RTO",
+			"line of",
+			"hard",
+			"stolen",
+			"vendor",
+			"brand",
+			"host",
+			"LegalHold",
+			"legalHold",
+			"ui-ac",
+			"btn",
+			"customer-research",
+			"customer-info",
+			"agreement-wrapper",
+			"additionalDet",
+			"primary",
+			"phone",
+			"SIMS",
+			"navigateTo",
+			"inactive",
+			"inactiveAgreements",
+			"tabToTax",
+			" [class*=\"span\"]",
+			"span1",
+			"span2",
+			"localStore",
+			"dataStore",
+			"}",
+			"customer",
+			"localStore",
+			"submitSearch",
+			"dataStore",
+			"512",
+			"timestamp",
+			"dataStore",
+			"localstore",
+			"localStore",
+			"console",
+			"executeSave",
+			"submitSearch",
+			"localStore",
+			"dataStore",
+			"localStore.set",
+			"executeSave",
+			"savedSearch",
+			"paginationINfo",
+			"localStore",
+			"dataStore",
+			"paginatio",
+			"localStorage",
+			"customerNo",
+			"undefined",
+			"vm.submitSearch",
+			"lineOfBusinessId",
+			"lineOfBusiness",
+			"location",
+			"/",
+			":",
+			"location",
+			"submit",
+			"saved",
+			"excecute",
+			"searchParams",
+			"ng-if=\"",
+			"permissionChecker",
+			"span",
+			"toolTIps",
+			"setToolTipForStore()",
+			"setToolTipForStore",
+			"console",
+			"}\n",
+			"data.",
+			"span3",
+			"offset3",
+			"popover",
+			"phone",
+			"toolTip",
+			"ft",
+			"phone",
+			"phoneNumbers",
+			"close",
+			".ft",
+			"addressDetails",
+			"reference.",
+			"span3",
+			"offset3",
+			"data.",
+			"reference.",
+			"residence",
+			"rent",
+			"addressDetails",
+			"reference",
+			"icon-info",
+			"pdf",
+			"a",
+			"pdf",
+			"inactiveAgreements",
+			"exceptions",
+			"collapse",
+			"accord",
+			"tab",
+			"tabToAgree",
+			"close",
+			"Modals",
+			"modal",
+			"workHistory",
+			"modal",
+			"br",
+			"address",
+			"addLe",
+			"getLegalHoldResolvedReasons",
+			"tabToLegal",
+			"div",
+			"legal"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"foc",
+			"<i class=\"rac-close\"></i>",
+			"spanCustom",
+			"agreement",
+			"localStore",
+			"vm.executeSearch",
+			"+'/'+",
+			"vm.searchParams.",
+			"ng-hide=\"!",
+			"data.additional.",
+			"data.additional",
+			"span6",
+			"",
+			"address",
+			"",
+			"span6",
+			"",
+			"data.employmentInfo.",
+			"",
+			"additional",
+			"RENT",
+			"previousAddress",
+			"residence",
+			"rac-more",
+			"\") %>",
+			"<%= permissionChecker.hasPermission(groupId, name, primKey, \"",
+			"div",
+			"primaryAddress",
+			"number",
+			"residence",
+			"class=\"loading\"",
+			"navigateToAgreement",
+			"agreement",
+			"/ng",
+			"/ng-boilerplate-portlet/app",
+			"1",
+			"%RAC_HOST%",
+			"'",
+			" %>,",
+			"",
+			"vm.customerInfo",
+			"ssstest",
+			"customerService",
+			"customerInfoService",
+			"InventoryDetailsCtrl",
+			"FullPaymentHistoryCtrl",
+			"CustomerAgreementsCtrl",
+			"CallHistoryCtrl",
+			"AgreementDetailsCtrl",
+			"entmgmt-angular-core",
+			"customer-information",
+			"Customer Information",
+			"customer-research-portlet",
+			"customerResearch",
+			"customer-research-portlet",
+			"customer-research",
+			"\"",
+			"tableData",
+			"tableHeadings",
+			"sssdev",
+			"ssstest",
+			"\"$rootScope\", \"$window\"",
+			"$(window)",
+			"$(window).scrollTo(0, 0);",
+			"$(window)",
+			"ssstest",
+			"span6",
+			"getInventoryChargeoff",
+			"chargeoffService",
+			"inventoryChargeoffs",
+			"getInventory",
+			"Inventory",
+			"https://ssstest.renters-choice-inc.com:8443",
+			"",
+			"$('.metrics-table')",
+			"$(window)",
+			"placement=\"top\"",
+			"placement=\"right\"",
+			"district",
+			"vm.collections.",
+			"",
+			"dhvsssapp01.renters-choice-inc.com",
+			"dhv",
+			"</th>",
+			"<th>",
+			"td class=\"cell\" ",
+			"charge-off",
+			"",
+			"tburkholder.XTIVIA-AUS",
+			"6.2.1",
+			"6.2",
+			"Users/tburkholder.XTIVIA-AUS/Desktop",
+			"/Users/tburkholder.XTIVIA-AUS/Desktop",
+			"editCheck",
+			"span6",
+			"chargebackFr",
+			"chargebackT",
+			"chargeback",
+			"Chargeback",
+			"cc",
+			"metrics-portlet",
+			"metrics",
+			"/exceptions-portlet",
+			"\"></script>",
+			"<script src=\"exceptions-portlet",
+			"\"></script>",
+			"<script src=\"/rent-a-center-theme/js",
+			"rent-a-center-theme",
+			"\"></script>",
+			"<script src=\"/update-serial-number-portlet",
+			"\"></script>",
+			"<script src=\"/credit-card-chargeback-portlet",
+			"<script src=\"/returned-checks-portlet/app/",
+			"\"></script>",
+			"<script src=\"",
+			"\"></script>",
+			"<script src=\"",
+			"/returned-checks-portlet/lib/",
+			"/lib/",
+			"</footer-portlet-javascript>",
+			"/returned-checks-portlet/",
+			"<footer-portlet-javascript>",
+			"rgba(0,0,0,0)",
+			"span6",
+			"$location",
+			"$routeParams",
+			"$location",
+			"</strong></p></div>"
+		],
+		"reverse": false,
+		"show_context": false,
+		"use_buffer2": false,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 1,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "index.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 412,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								302,
+								302
+							]
+						],
+						"settings":
+						{
+							"color_scheme": "Packages/User/Color Highlighter/themes/1337 (SL).tmTheme",
+							"syntax": "Packages/HTML/HTML.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true,
+							"typescript_plugin_format_options":
+							{
+								"convertTabsToSpaces": true,
+								"indentSize": 4,
+								"tabSize": 4
+							}
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "app.ts",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 2124,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								951,
+								951
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/TypeScript/TypeScript.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true,
+							"use_tab_stops": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 1135.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "app.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 3593,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								595,
+								595
+							]
+						],
+						"settings":
+						{
+							"color_scheme": "Packages/User/Color Highlighter/themes/1337 (SL).tmTheme",
+							"syntax": "Packages/Better JavaScript/JavaScript.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 28.0
+	},
+	"input":
+	{
+		"height": 43.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.doc":
+	{
+		"height": 0.0
+	},
+	"output.exec":
+	{
+		"height": 28.0
+	},
+	"output.find_results":
+	{
+		"height": 160.0
+	},
+	"pinned_build_system": "",
+	"project": "angular-reddit.sublime-project",
+	"replace":
+	{
+		"height": 80.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 625.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"",
+				"C:\\Users\\tburkholder.XTIVIA-AUS\\Documents\\rac.sublime-project"
+			]
+		],
+		"width": 475.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 311.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
